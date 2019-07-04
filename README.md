@@ -7,10 +7,11 @@ Python script file to encrypt and decrypt DNA crytograms.
 
 <br />
 
+DNA encryption algorithm
+'************************'
+
 A cryptographic technique in which each letter of the alphabet is converted into a different combination of the four bases A,C,T,G that make up the human deoxyribonucleic acid (DNA).
 
-DNA encryption algorithm
-************************
 Step 1: Convert each ASCII value to its 8-bit binary value.
 Step 2: Convert each binary value to an A,C,T,G combination using a mapping like this {"00":"A", "01":"C", "10":"G", "11":"T"}
 Step 3: Construct a random table that represent all the 256 different possible quartet combinations of A,C,T,G (4^4 == 256 == the number of Extended ASCII characters) and use this substitution table to convert each ACTG quartet to an Extended ASCII character (this forms the encrypted message).
