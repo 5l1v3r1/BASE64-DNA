@@ -1,5 +1,5 @@
 # DNA-CRACKER
-Python script file to encrypt ad decrypt DNA crytograms.
+Python script file to encrypt and decrypt DNA crytograms.
 
 | LANGUAGE | FILENAME | MD5 Hash |
 |------    |------    | -------  |
