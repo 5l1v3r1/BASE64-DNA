@@ -8,7 +8,7 @@ Python script file to encrypt and decrypt DNA crytograms.
 <br />
 
 DNA encryption algorithm
-'************************'
+------------------------
 
 A cryptographic technique in which each letter of the alphabet is converted into a different combination of the four bases A,C,T,G that make up the human deoxyribonucleic acid (DNA).
 
