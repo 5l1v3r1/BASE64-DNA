@@ -18,9 +18,9 @@ Step 3: Construct a random table that represent all 256 different possible quart
 
 EXAMPLE: BOY
 ************
-ASCII values OF B=66, O=79, Y=89
+ASCII values of B=66, O=79, Y=89
 
-1. ASCII value of:</br>
+1. ASCII to binary conversion:</br>
                   B to binary is 01000010</br>
                   O to binary is 01001111</br>
                   Y to binary is 01011001</br>
@@ -39,4 +39,4 @@ ASCII values OF B=66, O=79, Y=89
    ......
    Position 89: CCGC</br>
    
-   The encrypted message is CAAG -> 53 -> 5 etc.
+   The encrypted message 'CAAG' becomes '53' which becomes '5' etc.
