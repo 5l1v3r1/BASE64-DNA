@@ -1,4 +1,4 @@
-# DNA-CYPHER
+# DNA-CRYPTOGRAMS
 Python script file to encrypt and decrypt DNA crytograms.
 
 | LANGUAGE | FILENAME | MD5 Hash |
