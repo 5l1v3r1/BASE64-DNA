@@ -11,7 +11,7 @@ A cryptographic technique in which each letter of the alphabet is converted into
 
 Step 1: Convert each ASCII value to its 8-bit binary value.</br>
 Step 2: Convert each binary value to an A, C, T, G combination using mapping - 00:A, 01:C, 10:G, and 11:T.</br>
-Step 3: Construct a random table that represent all 256 different possible quartet combinations of A, C, T, G (4^4 == 256 == the number of Extended ASCII characters). Use this substitution table to convert each 'ACTG' quartet to an Extended ASCII character (this then forms the encrypted message).
+Step 3: Construct a random table that represent all 256 different possible quartet combinations of A, C, T, G (4^4 = 256 = the number of Extended ASCII characters). Use this substitution table to convert each 'ACTG' quartet to an Extended ASCII character (this then forms the encrypted message).
 
 ## CONSOLE DISPLAY
 ![Screenshot](picture2.png)
