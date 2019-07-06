@@ -20,7 +20,8 @@ EXAMPLE: BOY
 ************
 ASCII values OF B=66, O=79, Y=89
 
-1. ASCII value of B to binary is 01000010</br>
+1. ASCII value of:</br>
+                  B to binary is 01000010</br>
                   O to binary is 01001111</br>
                   Y to binary is 01011001</br>
                   
@@ -30,7 +31,7 @@ ASCII values OF B=66, O=79, Y=89
    
    This means it will become CAAG, CATT, CCGC
    
-3. Now let's say that in the 256 random combinations table:
+3. Now let's say that in the 256 random combinations table:</br>
    ......
    Position 53: CAAG</br>
    ......
