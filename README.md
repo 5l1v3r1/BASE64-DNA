@@ -20,22 +20,22 @@ EXAMPLE: BOY
 ************
 ASCII values OF B=66, O=79, Y=89
 
-1. ASCII value of B to binary is 01000010
-                  O to binary is 01001111
-                  Y to binary is 01011001
+1. ASCII value of B to binary is 01000010</br>
+                  O to binary is 01001111</br>
+                  Y to binary is 01011001</br>
                   
-2. 01000010 => 01=C, 00=A, 00=A, 10=G
-   01001111 => 01=C, 00=A, 11=T, 11=T
-   01011001 => 01=C, 01=C, 10=G, 01=C
+2. 01000010 => 01=C, 00=A, 00=A, 10=G</br>
+   01001111 => 01=C, 00=A, 11=T, 11=T</br>
+   01011001 => 01=C, 01=C, 10=G, 01=C</br>
    
    This means it will become CAAG, CATT, CCGC
    
 3. Now let's say that in the 256 random combinations table:
    ......
-   Position 53: CAAG
+   Position 53: CAAG</br>
    ......
-   Position 67: CATT
+   Position 67: CATT</br>
    ......
-   Position 89: CCGC
+   Position 89: CCGC</br>
    
    The encrypted message is CAAG -> 53 -> 5 etc.
