@@ -17,7 +17,7 @@ Step 2: Convert each binary value to an A,C,T,G combination using a mapping like
 Step 3: Construct a random table that represent all the 256 different possible quartet combinations of A,C,T,G (4^4 == 256 == the number of Extended ASCII characters) and use this substitution table to convert each ACTG quartet to an Extended ASCII character (this forms the encrypted message).
 
 ## CONSOLE DISPLAY
-![Screenshot](picture1.png)
+![Screenshot](picture2.png)
 
 <br />
 
