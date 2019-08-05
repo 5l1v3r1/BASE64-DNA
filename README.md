@@ -3,7 +3,7 @@ A python script file to encrypt and decrypt DNA based crytograms.
 
 | LANGUAGE | FILENAME | MD5 Hash |
 |------    |------    | -------  |
-| Python | dna_cryptograms.py | fccc99242a194e644646e6d2dcc0b34d |
+| python | dna_cryptograms.py | fccc99242a194e644646e6d2dcc0b34d |
 
 DNA encryption algorithm
 ------------------------
