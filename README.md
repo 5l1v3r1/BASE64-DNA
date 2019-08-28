@@ -7,6 +7,8 @@ Usage: python base64_dna.py
 |------    |------         | -------                          |
 | python   | base64_dna.py | 8c57e546af45fbc7f8cedcde843167fc |
 
+- [x] For more information - see https://www.sciencedirect.com/science/article/pii/S187705091500109X
+
 ### DNA ENCRYPTION ALGORITHM
 A cryptographic technique in which each letter of the alphabet is converted into a different combination of the four bases A, C, T, G that make up the human deoxyribonucleic acid (DNA).
 
