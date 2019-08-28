@@ -1,11 +1,11 @@
-# DNA CRYPTOGRAM
-A python script file to encrypt and decrypt DNA based crytograms.
+# BASE64/DNA ENCODER
+## A PYTHON SCRIPT FILE TO ENCODE AND DECODE BASE64/DNA TEXT STRINGS.
 
-| LANGUAGE | FILENAME | MD5 Hash |
-|------    |------    | -------  |
-| python | dna_cryptograms.py | fccc99242a194e644646e6d2dcc0b34d |
+| LANGUAGE | FILENAME      | MD5 Hash                         |
+|------    |------         | -------                          |
+| python   | base64_dna.py | 8c57e546af45fbc7f8cedcde843167fc |
 
-DNA encryption algorithm
+### DNA ENCRYPTION ALGORITHM
 ------------------------
 A cryptographic technique in which each letter of the alphabet is converted into a different combination of the four bases A, C, T, G that make up the human deoxyribonucleic acid (DNA).
 
@@ -13,8 +13,8 @@ Step 1: Convert each ASCII value to its 8-bit binary value.</br>
 Step 2: Convert each binary value to an A, C, T, G combination using mapping - 00:A, 01:C, 10:G, and 11:T.</br>
 Step 3: Construct a random table that represent all 256 different possible quartet combinations of A, C, T, G (4^4 = 256 = the number of Extended ASCII characters). Use this substitution table to convert each 'ACTG' quartet to an Extended ASCII character (this then forms the encrypted message).
 
-## CONSOLE DISPLAY
-![Screenshot](picture2.png)
+### CONSOLE DISPLAY
+![Screenshot](picture1.png)
 
 EXAMPLE: BOY
 ************
