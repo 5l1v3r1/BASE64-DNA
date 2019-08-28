@@ -17,7 +17,7 @@ Step 3: Construct a random table that represent all 256 different possible quart
 ### CONSOLE DISPLAY
 ![Screenshot](picture1.png)
 
-Worked exmple:-
+Worked example:-
 
 > BOY = ASCII values B=66, O=79, Y=89
 
