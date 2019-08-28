@@ -19,7 +19,7 @@ Step 3: Construct a random table that represent all 256 different possible quart
 
 Worked example:-
 
-> BOY = ASCII values B=66, O=79, Y=89
+> BOY ASCII values B=66, O=79, Y=89
 
 >1. ASCII to binary conversion:</br>
 >                  B to binary is 01000010</br>
