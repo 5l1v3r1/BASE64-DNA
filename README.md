@@ -8,7 +8,6 @@ Usage: python base64_dna.py
 | python   | base64_dna.py | 8c57e546af45fbc7f8cedcde843167fc |
 
 ### DNA ENCRYPTION ALGORITHM
-------------------------
 A cryptographic technique in which each letter of the alphabet is converted into a different combination of the four bases A, C, T, G that make up the human deoxyribonucleic acid (DNA).
 
 Step 1: Convert each ASCII value to its 8-bit binary value.</br>
