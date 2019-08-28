@@ -1,6 +1,8 @@
 # BASE64/DNA ENCODER
 ## A PYTHON SCRIPT FILE TO ENCODE AND DECODE BASE64/DNA TEXT STRINGS.
 
+Usage: python base64_dna.py
+
 | LANGUAGE | FILENAME      | MD5 Hash                         |
 |------    |------         | -------                          |
 | python   | base64_dna.py | 8c57e546af45fbc7f8cedcde843167fc |
