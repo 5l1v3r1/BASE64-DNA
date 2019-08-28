@@ -3,7 +3,7 @@
 
 Usage: python base64_dna.py
 
-| LANGUAGE | FILENAME      | MD5 Hash                         |
+| LANGUAGE | FILENAME      | MD5 HASH                         |
 |------    |------         | -------                          |
 | python   | base64_dna.py | 8c57e546af45fbc7f8cedcde843167fc |
 
