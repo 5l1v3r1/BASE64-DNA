@@ -5,7 +5,7 @@ Usage: python base64_dna.py
 
 | LANGUAGE | FILENAME      | MD5 HASH                         |
 |------    |------         | -------                          |
-| python   | base64_dna.py | 8c57e546af45fbc7f8cedcde843167fc |
+| python   | base64_dna.py | aa12092956652b52c597fe9e88ce604b |
 
 - [x] For more information - see https://www.sciencedirect.com/science/article/pii/S187705091500109X
 

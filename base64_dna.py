@@ -112,18 +112,29 @@ def decrypt(encrypted, base2bits):
 # AUTHOR  : Terence Broadbent                                                    
 # CONTRACT: GitHub
 # Version : 1.0                                                                
-# Details : MAIN - Display program variables, and encrypt/decrypt plainText.
+# Details : MAIN - Encrypt and decrypt plainText.
 # Modified: N/A
 # -------------------------------------------------------------------------------------
 
 encrypted = encrypt(plainText, bits2base) 	# Creates Key and encrypts plainText.
-Key = linecache.getline('key.txt', 1) 
+decrypted = decrypt(encrypted, base2bits)
+Key = linecache.getline('key.txt', 1)           # Grab a copy of the key.
+
+# ------------------------------------------------------------------------------------- 
+# AUTHOR  : Terence Broadbent                                                    
+# CONTRACT: GitHub
+# Version : 1.0                                                                
+# Details : MAIN - Display program variables and results.
+# Modified: N/A
+# -------------------------------------------------------------------------------------
 
 print "Plain Text : " + plainText
 print "DNA Key    : " + Key[:100] + "...\n"
 print "Encrypted  : " + encrypted 
+print "Decrypted  : " + decrypted + "\n"
 
-decrypted = decrypt(encrypted, base2bits)
-print "Decrypted  : " + decrypted + "\n"   
+
+
+
 
 
